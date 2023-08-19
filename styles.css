@@ -31,7 +31,7 @@ h5 {
     border-radius: 9px;
 }
   
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 650px) {
     .container1 {
       width: 100%;
       height: auto;
